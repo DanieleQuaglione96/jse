@@ -8,7 +8,7 @@ public class Exercise1 {
      * @return the input reversed
      */
     public static String reverse(String s) {
-        // TODO
+        // TODO: still thinking about
         return "";
     }
 }
